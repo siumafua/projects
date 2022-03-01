@@ -3,5 +3,5 @@
 
 
 <!---
-siumafua/siumafua is repository for different projects.
+siumafua/siumafua is a repository for different projects I am working on or interested in.
 --->
