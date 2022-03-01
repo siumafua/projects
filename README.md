@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @siumafua
-- 🌱 I’m currently learning DevOps
+- 🌱 Currently working/learning on different projects
 
 
 <!---
